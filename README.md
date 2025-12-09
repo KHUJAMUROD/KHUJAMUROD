@@ -21,8 +21,9 @@
 ## 💼 UPWORK PROFILE
 
 <div align="center">
-  
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)]([https://www.upwork.com/freelancers/~01d1eae8cce723af0d](https://freelancerprofilenuxt.mesh.prod.platform.usw2.upwork/freelancers/~017dfa0cae2a05eb2f?mp_source=share))
+ 
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://freelancerprofilenuxt.mesh.prod.platform.usw2.upwork/freelancers/~017dfa0cae2a05eb2f?mp_source=share)
+
 
 </div>
 
